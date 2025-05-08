@@ -44,20 +44,20 @@ Unity：2022.3.61f1</br>
 【使用したアセット】</br>
 Fantasy SkyBox FREE</br>
 説明：ボス戦の背景に使用しました。</br>
-URL：</br>
+URL：https://assetstore-fallback.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353?locale=ja-JP</br>
 </br>
 Mixamo</br>
 説明：主人公のアニメーションに使用しました。</br>
-URL：</br>
+URL：https://www.mixamo.com/#/</br>
 </br>
 Outdoor Ground Textures</br>
 説明：ボス戦の地面のテクスチャに使用しました。</br>
-URL：</br>
+URL：https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555?srsltid=AfmBOorXYtDXpFBqhhVVzfkTttVQHn2LOSt5mcCGbe_Rg6A8vfsQ2J2-</br>
 </br>
 SpaceSkies FREE</br>
 説明：ボス戦の背景に使用しました。</br>
-URL：</br>
-
+URL：https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503?locale=ja-JP&srsltid=AfmBOop_X391VVctn2zM6rrV8j7dMkooTDGNWCBqD_A7EtwDnY6ZPH42</br>
+</br>
 Vroid Studio</br>
 説明：主人公のモデルに使用しました。</br>
 URL：https://vroid.com/studio</br>
